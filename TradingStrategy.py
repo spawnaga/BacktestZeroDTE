@@ -6,10 +6,10 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # Replace these with your actual API keys
-DATABENTO_API_KEY = "db-LEnwVehwtuhQu8KmU3uFDLJ8V3Xhm"
+DATABENTO_API_KEY = ""
 POLYGON_API_KEY = "Tg0lvrLsHAfa3S0WutQcug5FpNGLNQRd"
 
-TICKER = "ES.FUT"
+TICKER = ""
 START_DATE = "2023-01-01"
 END_DATE = "2024-05-27"
 INTERVAL = "1m"
